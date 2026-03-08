@@ -1,4 +1,4 @@
-# 역대 문집
+# 역대 기념집
 
 <div class="book-grid">
 <a class="book-card" href="https://ibook.yonsei.ac.kr/Viewer/GEFQ24RMWHC7" target="_blank">

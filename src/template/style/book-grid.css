@@ -67,8 +67,7 @@
 
 .book-cover img {
     width: 100%;
-    height: 260px;
-    object-fit: cover;
+    height: auto;
     display: block;
 }
 
@@ -91,18 +90,11 @@
         gap: 28px 24px;
     }
 
-    .book-cover img {
-        height: 220px;
-    }
 }
 
 @media (max-width: 400px) {
     .book-grid {
         gap: 24px 16px;
-    }
-
-    .book-cover img {
-        height: 180px;
     }
 
     .book-year {
